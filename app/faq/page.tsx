@@ -30,7 +30,7 @@ const faqs = [
 ];
 
 export const metadata: Metadata = {
-  title: "2FA Generator FAQ - Privacy, TOTP Codes, and Troubleshooting",
+  title: "2FA Generator FAQ - Privacy and TOTP Help",
   description: "Answers about the Free 2FA Code Generator, local TOTP generation, privacy, and supported formats.",
   alternates: {
     canonical: "/faq/"
