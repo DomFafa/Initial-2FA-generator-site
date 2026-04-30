@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Contact",
+  title: "Contact 2FA Free - Bug Reports and Security Questions",
   description: "Contact 2FA Free for bug reports, security concerns, or advertising inquiries.",
   alternates: {
     canonical: "/contact/"

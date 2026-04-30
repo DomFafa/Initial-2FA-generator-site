@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy & Security",
+  title: "Privacy & Security - Local 2FA Code Generation",
   description: "Privacy and security details for the Free 2FA Code Generator.",
   alternates: {
     canonical: "/privacy-security/"
