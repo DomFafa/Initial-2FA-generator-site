@@ -12,7 +12,7 @@ export function TotpGenerator() {
   const [code, setCode] = useState("");
   const [error, setError] = useState("");
   const [isHidden, setIsHidden] = useState(false);
-  const [now, setNow] = useState(Date.now());
+  const [now, setNow] = useState(0);
   const [toast, setToast] = useState<Toast | null>(null);
   const [hasGenerated, setHasGenerated] = useState(false);
 
