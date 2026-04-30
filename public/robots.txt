@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://2fafree.com
+Sitemap: https://2fafree.com/sitemap.xml
